@@ -9,5 +9,9 @@ The biggest difficulty that I faced while creating this project was finding a wa
 
 The code basically searches in a Path format until it reaches the End . On reaching E , it highlights a path back to the start
 
+White Blocks  -Rectrictions.
+
 Blue Blocks   -Working of the Recursive algorithm.
+
 Yellow Blocks -A path joining S and E .
+
